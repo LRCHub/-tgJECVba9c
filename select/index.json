@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "NOT CUTE ANYMORE",
+  "base_artist": "ILLIT",
+  "createdAt": "2026-04-03T03:12:25.955206Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "NOT CUTE ANYMORE",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/01_NOT_CUTE_ANYMORE_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "NOT CUTE ANYMORE",
+      "artist": "아일릿 (ILLIT)",
+      "has_synced": true,
+      "path": "select/02_NOT_CUTE_ANYMORE_아일릿_(ILLIT).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "NOT CUTE ANYMORE (Paused)",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/03_NOT_CUTE_ANYMORE_(Paused)_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "NOT CUTE ANYMORE (Holiday Night ver.)",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/04_NOT_CUTE_ANYMORE_(Holiday_Night_ver.)_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "NOT CUTE ANYMORE (Sped Up ver.)",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/05_NOT_CUTE_ANYMORE_(Sped_Up_ver.)_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "NOT CUTE ANYMORE (Holiday Party Sped up ver.)",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/06_NOT_CUTE_ANYMORE_(Holiday_Party_Sped_up_ver.)_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "NOT CUTE ANYMORE (Holiday Night Sped up ver.)",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/07_NOT_CUTE_ANYMORE_(Holiday_Night_Sped_up_ver.)_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "NOT CUTE ANYMORE (Holiday Party ver.)",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/08_NOT_CUTE_ANYMORE_(Holiday_Party_ver.)_ILLIT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NOT CUTE ANYMORE",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/pl_01_NOT_CUTE_ANYMORE_ILLIT.txt"
+    }
+  ]
+}
